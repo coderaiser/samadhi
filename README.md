@@ -1,4 +1,4 @@
-# 🧘🏽 Samadhi [![License][LicenseIMGURL]][LicenseURL] [![NPM version][NPMIMGURL]][NPMURL] [![Build Status][BuildStatusIMGURL]][BuildStatusURL] [![Coverage Status][CoverageIMGURL]][CoverageURL]
+# Samadhi [![License][LicenseIMGURL]][LicenseURL] [![NPM version][NPMIMGURL]][NPMURL] [![Build Status][BuildStatusIMGURL]][BuildStatusURL] [![Coverage Status][CoverageIMGURL]][CoverageURL]
 
 [NPMIMGURL]: https://img.shields.io/npm/v/samadhi.svg?style=flat
 [BuildStatusURL]: https://github.com/samadhi/actions?query=workflow%3A%22Node+CI%22 "Build Status"
@@ -9,7 +9,11 @@
 [CoverageURL]: https://coveralls.io/github/samadhi?branch=master
 [CoverageIMGURL]: https://coveralls.io/repos/samadhi/badge.svg?branch=master&service=github
 
-🧘🏽Samadhi linter finds and fixes syntax errors.
+> **Samadhi** (Sanskrit, समाधि) *is a state of meditative consciousness.*
+
+<img width="214" alt="image" src="https://github.com/coderaiser/samadhi/assets/1573141/c95fb001-e535-4a07-b28f-a22c520fc042">
+
+🧘🏽**Samadhi** linter finds and fixes syntax errors.
 
 ## Install
 
