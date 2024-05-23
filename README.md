@@ -34,10 +34,10 @@ const source = `
     }
 `;
 
-await samadhi(source);
+const {code, places} await samadhi(source);
 
-/ returns
-[source, {
+// places:
+[{
     rule: 'parser (quick-lint-js)',
     message: `functions/methods should not have '=>'`,
     position: {
@@ -45,8 +45,11 @@ await samadhi(source);
         column: 8,
     },
 }];
+```
 
-await samadhi(source, {
+You can also `fix` results:
+```
+const {code, places} = await samadhi(source, {
     fix: true,
 });
 
