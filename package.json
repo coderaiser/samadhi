@@ -8,7 +8,7 @@
   "main": "lib/samadhi.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/putoutjs/quick-lint.git"
+    "url": "git://github.com/coderaiser/samadhi.git"
   },
   "keywords": [
     "linter",
