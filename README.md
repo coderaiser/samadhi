@@ -65,7 +65,7 @@ const b = 'world';
 
 ## API
 
-### samadhi(source: string, options: Options)
+### lint(source: string, options: Options)
 
 Possible options:
 
