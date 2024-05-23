@@ -19,12 +19,14 @@
 
 ### samadhi(source: string, options: Options)
 
+Possible options:
 ```ts
 interface Options {
     isJSX: boolean;
     isTS: boolean;
 }
 ```
+Here is example:
 
 ```js
 import samadhi from 'samadhi';
@@ -48,7 +50,8 @@ const {code, places} await samadhi(source);
 ```
 
 You can also `fix` results:
-```
+
+```js
 const {code, places} = await samadhi(source, {
     fix: true,
 });
