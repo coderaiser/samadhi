@@ -1,0 +1,11 @@
+test
+yarn-error.log
+.*
+
+*.swp
+
+coverage
+example
+*.config.*
+rules
+*.spec.js

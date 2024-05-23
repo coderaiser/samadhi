@@ -1,0 +1,6 @@
+{
+    "rules": {
+        "putout": "on"
+    },
+    "ignore": ["example", "!**/dist"]
+}
