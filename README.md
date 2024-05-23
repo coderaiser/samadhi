@@ -49,13 +49,14 @@ await samadhi(source);
 await samadhi(source, {
     fix: true,
 });
-```
+
 // returns
 
 [
 `function x() {
     return 'hello';
 }`, []]
+```
 
 ## License
 
