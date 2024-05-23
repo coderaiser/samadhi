@@ -24,12 +24,14 @@
 ### samadhi(source: string, options: Options)
 
 Possible options:
+
 ```ts
 interface Options {
     isJSX: boolean;
     isTS: boolean;
 }
 ```
+
 Here is example:
 
 ```js
@@ -62,11 +64,12 @@ const {code, places} = await lint(source, {
 });
 
 // returns
-
 [
-`function x() {
+    `function x() {
     return 'hello';
-}`, []]
+}`,
+    [],
+];
 ```
 
 ## License
