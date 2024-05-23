@@ -19,6 +19,50 @@
 
 `npm i samadhi --save`
 
+## Avaliable fixes
+
+<details><summary>function declaration half converted from arrow expression</summary>
+
+```diff
+-function parse(source) => {
++function parse(source) {
+    return source;
+}
+```
+
+</details>
+
+<details><summary>broken string</summary>
+
+```diff
+-const a = 'hello;
++const a = 'hello';
+const b = 'world';
+```
+
+</details>
+
+<details><summary>forgotten round braces in if statement</summary>
+
+```diff
+-if a > 5 {
++if (a > 5) {
+    alert();
+}
+```
+
+</details>
+
+<details><summary>missing initializer</summary>
+
+```diff
+-const {code, places} await samadhi(source);
++const {code, places} = await samadhi(source);
+```
+
+</details>
+
+
 ## API
 
 ### samadhi(source: string, options: Options)
