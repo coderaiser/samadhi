@@ -1,8 +1,8 @@
 # Samadhi [![License][LicenseIMGURL]][LicenseURL] [![NPM version][NPMIMGURL]][NPMURL] [![Build Status][BuildStatusIMGURL]][BuildStatusURL] [![Coverage Status][CoverageIMGURL]][CoverageURL]
 
 [NPMIMGURL]: https://img.shields.io/npm/v/samadhi.svg?style=flat
-[BuildStatusURL]: https://github.com/samadhi/actions?query=workflow%3A%22Node+CI%22 "Build Status"
-[BuildStatusIMGURL]: https:/github.com/samadhi/workflows/Node%20CI/badge.svg
+[BuildStatusURL]: https://github.com/coderaiser/samadhi/actions/workflows/nodejs.yml "Build Status"
+[BuildStatusIMGURL]: https://github.com/coderaiser/samadhi/actions/workflows/nodejs.yml/badge.svg
 [LicenseIMGURL]: https://img.shields.io/badge/license-MIT-317BF9.svg?style=flat
 [NPMURL]: https://npmjs.org/package/samadhi "npm"
 [LicenseURL]: https://tldrlegal.com/license/mit-license "MIT License"
