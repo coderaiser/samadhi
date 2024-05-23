@@ -1,3 +1,8 @@
+2024.05.23, v1.1.1
+
+fix:
+- 15a97b0 package: repository url
+
 2024.05.23, v1.1.0
 
 feature:
