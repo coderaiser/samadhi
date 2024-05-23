@@ -30,6 +30,7 @@ Here is example:
 
 ```js
 import samadhi from 'samadhi';
+
 const source = `
     function x() => {
         return 'hello';
