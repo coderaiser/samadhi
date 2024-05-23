@@ -33,7 +33,7 @@ interface Options {
 Here is example:
 
 ```js
-import samadhi from 'samadhi';
+import {lint} from 'samadhi';
 
 const source = `
     function x() => {
@@ -41,7 +41,7 @@ const source = `
     }
 `;
 
-const {code, places} await samadhi(source);
+const {code, places} = await lint(source);
 
 // places:
 [{
@@ -57,7 +57,7 @@ const {code, places} await samadhi(source);
 You can also `fix` results:
 
 ```js
-const {code, places} = await samadhi(source, {
+const {code, places} = await lint(source, {
     fix: true,
 });
 
