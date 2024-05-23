@@ -1,13 +1,13 @@
 # 🧘🏽 Samadhi [![License][LicenseIMGURL]][LicenseURL] [![NPM version][NPMIMGURL]][NPMURL] [![Build Status][BuildStatusIMGURL]][BuildStatusURL] [![Coverage Status][CoverageIMGURL]][CoverageURL]
 
-[NPMIMGURL]: https:/img.shields.io/npm/v/samadhi.svg?style=flat
-[BuildStatusURL]: https:/github.com/samadhi/actions?query=workflow%3A%22Node+CI%22 "Build Status"
+[NPMIMGURL]: https://img.shields.io/npm/v/samadhi.svg?style=flat
+[BuildStatusURL]: https://github.com/samadhi/actions?query=workflow%3A%22Node+CI%22 "Build Status"
 [BuildStatusIMGURL]: https:/github.com/samadhi/workflows/Node%20CI/badge.svg
-[LicenseIMGURL]: https:/img.shields.io/badge/license-MIT-317BF9.svg?style=flat
-[NPMURL]: https:/npmjs.org/package/samadhi "npm"
-[LicenseURL]: https:/tldrlegal.com/license/mit-license "MIT License"
-[CoverageURL]: https:/coveralls.io/github/samadhi?branch=master
-[CoverageIMGURL]: https:/coveralls.io/repos/samadhi/badge.svg?branch=master&service=github
+[LicenseIMGURL]: https://img.shields.io/badge/license-MIT-317BF9.svg?style=flat
+[NPMURL]: https://npmjs.org/package/samadhi "npm"
+[LicenseURL]: https://tldrlegal.com/license/mit-license "MIT License"
+[CoverageURL]: https://coveralls.io/github/samadhi?branch=master
+[CoverageIMGURL]: https://coveralls.io/repos/samadhi/badge.svg?branch=master&service=github
 
 🧘🏽Samadhi linter finds and fixes syntax errors.
 
