@@ -6,8 +6,8 @@
 [LicenseIMGURL]: https://img.shields.io/badge/license-MIT-317BF9.svg?style=flat
 [NPMURL]: https://npmjs.org/package/samadhi "npm"
 [LicenseURL]: https://tldrlegal.com/license/mit-license "MIT License"
-[CoverageURL]: https://coveralls.io/github/samadhi?branch=master
-[CoverageIMGURL]: https://coveralls.io/repos/samadhi/badge.svg?branch=master&service=github
+[CoverageURL]: https://coveralls.io/github/coderaiser/samadhi?branch=master
+[CoverageIMGURL]: https://coveralls.io/repos/coderaiser/samadhi/badge.svg?branch=master&service=github
 
 > **Samadhi** (Sanskrit, समाधि) *is a state of meditative consciousness.*
 
