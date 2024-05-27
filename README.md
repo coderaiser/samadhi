@@ -62,6 +62,15 @@ const b = 'world';
 
 </details>
 
+<details><summary>import identifier</summary>
+
+```diff
+-import hello from hello;
++import hello from 'hello';
+```
+
+</details>
+
 ## API
 
 ### lint(source: string, options: Options)
