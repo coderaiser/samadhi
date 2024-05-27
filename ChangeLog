@@ -1,3 +1,8 @@
+2024.05.27, v2.0.0
+
+feature:
+- 8ed3136 samadhi: returns: {code, places} -> [code, places]
+
 2024.05.27, v1.3.0
 
 feature:
