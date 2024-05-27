@@ -6,7 +6,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     env:
-      NAME: "samadhi"
+      NAME: samadhi
     strategy:
       matrix:
         node-version:

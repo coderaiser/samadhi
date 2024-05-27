@@ -95,7 +95,7 @@ const source = `
     }
 `;
 
-const {code, places} = await lint(source);
+const [code, places] = await lint(source);
 
 // places:
 [{
@@ -111,7 +111,7 @@ const {code, places} = await lint(source);
 You can also `fix` results:
 
 ```js
-const {code, places} = await lint(source, {
+const [code, places] = await lint(source, {
     fix: true,
 });
 
