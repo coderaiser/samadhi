@@ -62,7 +62,6 @@ const b = 'world';
 
 </details>
 
-
 ## API
 
 ### lint(source: string, options: Options)
