@@ -119,17 +119,14 @@ const [code, places] = await lint(source);
 You can also `fix` results:
 
 ```js
-const [code, places] = await lint(source, {
+const [code] = await lint(source, {
     fix: true,
 });
 
 // returns
-[
-    `function x() {
+function x() {
     return 'hello';
-}`,
-    [],
-];
+}
 ```
 
 ## License
