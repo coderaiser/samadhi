@@ -79,6 +79,17 @@ const m = {
 
 </details>
 
+<details><summary>comma after statement</summary>
+
+```diff
+function x() {
+-    return 'hello',
++    return 'hello';
+}
+```
+
+</details>
+
 ## API
 
 ### lint(source: string, options: Options)
