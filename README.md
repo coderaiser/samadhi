@@ -88,9 +88,18 @@ function x() {
 }
 
 -const a = 5,
--const b = 7,
 +const a = 5;
-+const b = 7;
+```
+
+</details>
+
+<details><summary>useless comma</summary>
+
+```diff
+const a = {
+-    b: 'hello',,
++    b: 'hello',
+}
 ```
 
 </details>
