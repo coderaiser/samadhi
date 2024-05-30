@@ -86,6 +86,11 @@ function x() {
 -    return 'hello',
 +    return 'hello';
 }
+
+-const a = 5,
+-const b = 7,
++const a = 5;
++const b = 7;
 ```
 
 </details>
