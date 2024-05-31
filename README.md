@@ -104,6 +104,17 @@ const a = {
 
 </details>
 
+<details><summary>useless semicolon</summary>
+
+```diff
+const a = {
+-    b: 'hello';
++    b: 'hello',
+}
+```
+
+</details>
+
 ## API
 
 ### lint(source: string, options: Options)
