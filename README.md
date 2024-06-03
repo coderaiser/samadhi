@@ -115,6 +115,15 @@ const a = {
 
 </details>
 
+<details><summary>assign from</summary>
+
+```diff
+-const a = from 'a';
++const a = require('a');
+```
+
+</details>
+
 ## API
 
 ### lint(source: string, options: Options)
