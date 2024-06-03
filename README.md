@@ -100,11 +100,6 @@ const a = {
 -    b: 'hello',,
 +    b: 'hello',
 }
-
-const a = class {
--    b() {},
-+    b() {}
-}
 ```
 
 </details>
@@ -115,6 +110,11 @@ const a = class {
 const a = {
 -    b: 'hello';
 +    b: 'hello',
+}
+
+const a = class {
+-    b() {},
++    b() {}
 }
 ```
 
