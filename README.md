@@ -100,6 +100,11 @@ const a = {
 -    b: 'hello',,
 +    b: 'hello',
 }
+
+const a = class {
+-    b() {},
++    b() {}
+}
 ```
 
 </details>
