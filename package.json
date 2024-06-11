@@ -46,7 +46,7 @@
   },
   "dependencies": {
     "@putout/quick-lint": "^1.2.0",
-    "goldstein": "^5.11.0",
+    "goldstein": "^5.16.0",
     "js-tokens": "^9.0.0",
     "try-catch": "^3.0.1"
   }
