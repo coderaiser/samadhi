@@ -139,6 +139,7 @@ Possible options:
 interface Options {
     isJSX: boolean;
     isTS: boolean;
+    startLine: number;
 }
 ```
 
