@@ -129,6 +129,16 @@ const a = class {
 
 </details>
 
+
+<details><summary>export without const</summary>
+
+```diff
+-export x = () => {};
++export const x = () => {};
+```
+
+</details>
+
 ## API
 
 ### lint(source: string, options: Options)
