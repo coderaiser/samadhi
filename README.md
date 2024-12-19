@@ -129,12 +129,20 @@ const a = class {
 
 </details>
 
-
 <details><summary>export without const</summary>
 
 ```diff
 -export x = () => {};
 +export const x = () => {};
+```
+
+</details>
+
+<details><summary>wrong brace</summary>
+
+```diff
+-import a from 'a');
++import a from 'a';
 ```
 
 </details>
