@@ -37,7 +37,9 @@
 ```diff
 -const a = 'hello;
 +const a = 'hello';
-const b = 'world';
+
+-const b = ‘hello world’;
++const b = 'hello world';
 
 
 -x('hello);
