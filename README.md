@@ -19,7 +19,7 @@
 
 `npm i samadhi --save`
 
-## Avaliable fixes
+## Available fixes
 
 <details><summary>function declaration half converted from arrow expression</summary>
 
