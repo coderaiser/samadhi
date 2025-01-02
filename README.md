@@ -113,7 +113,13 @@ const a = {
 -    b: 'hello';
 +    b: 'hello',
 }
+```
 
+</details>
+
+<details><summary>useless coma</summary>
+
+```diff
 const a = class {
 -    b() {},
 +    b() {}
