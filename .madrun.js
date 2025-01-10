@@ -3,7 +3,7 @@
 const {run} = require('madrun');
 
 module.exports = {
-    'test': () => `tape 'lib/**/*.spec.js'`,
+    'test': () => `tape 'lib/**/*.spec.*js'`,
     'coverage': () => 'c8 npm test',
     'lint': () => 'putout .',
     'fix:lint': () => run('lint', '--fix'),

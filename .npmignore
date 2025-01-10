@@ -8,4 +8,4 @@ coverage
 example
 *.config.*
 rules
-*.spec.js
+*.spec.*
