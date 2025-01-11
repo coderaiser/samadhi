@@ -47,7 +47,6 @@
     "@putout/quick-lint": "^1.2.0",
     "flatlint": "^1.21.2",
     "goldstein": "^5.16.0",
-    "js-tokens": "^9.0.0",
     "try-catch": "^3.0.1"
   }
 }
