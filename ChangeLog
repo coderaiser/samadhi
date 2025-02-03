@@ -1,3 +1,9 @@
+2025.02.03, v2.15.0
+
+feature:
+- 8a0f92b samadhi: eslint-plugin-putout v24.0.0
+- 6e05376 samadhi: putout v38.0.5
+
 2025.01.20, v2.14.1
 
 fix:
