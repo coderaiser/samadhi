@@ -46,7 +46,7 @@
   "dependencies": {
     "@putout/quick-lint": "^1.2.0",
     "flatlint": "^2.0.0",
-    "goldstein": "^5.16.0",
+    "goldstein": "^6.0.0",
     "try-catch": "^3.0.1"
   }
 }
