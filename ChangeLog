@@ -1,3 +1,8 @@
+2025.03.26, v3.0.1
+
+fix:
+- 550105e samadhi: convert to ESM
+
 2025.03.26, v3.0.0
 
 feature:
