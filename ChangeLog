@@ -1,3 +1,13 @@
+2025.03.26, v3.0.0
+
+feature:
+- 4355b91 samadhi: supertape v11.0.4
+- eaaa9e3 samadhi: putout v39.1.0
+- cd841e7 samadhi: madrun v11.0.0
+- afa2403 samadhi: goldstein v6.0.0
+- 3106866 samadhi: eslint-plugin-putout v26.1.0
+- 28d5b0e samadhi: drop support of node < 20
+
 2025.02.17, v2.15.1
 
 feature:
