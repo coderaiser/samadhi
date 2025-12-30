@@ -1,3 +1,10 @@
+2025.12.30, v3.0.6
+
+feature:
+- 02c720e samadhi: eslint-plugin-putout v29.2.0
+- 86857e3 samadhi: putout v41.2.1
+- b107e27 samadhi: try-catch v4.0.2
+
 2025.06.03, v3.0.5
 
 feature:
