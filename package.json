@@ -35,7 +35,7 @@
     "nodemon": "^3.1.0",
     "putout": "^41.2.1",
     "supertape": "^11.0.4",
-    "try-to-catch": "^3.0.1"
+    "try-to-catch": "^4.0.2"
   },
   "engines": {
     "node": ">=22"
