@@ -1,11 +1,10 @@
-node_modules
-npm-debug.log
-.nyc_output
-
-legacy
-yarn-error.log
-
 *.swp
+*.log
+*.lock
 
+.nyc_output
 .idea
+
+node_modules
+legacy
 coverage

@@ -2,11 +2,11 @@
     "check-coverage": false,
     "all": true,
     "exclude": [
-        ".*",
         "**/*.spec.*",
-        "test",
+        "**/*.config.*",
         "**/fixture",
-        "**/*.config.*"
+        ".*",
+        "test"
     ],
     "branches": 100,
     "lines": 100,

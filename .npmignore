@@ -1,11 +1,12 @@
-test
-yarn-error.log
+*.swp
+*.config.*
+*.spec.*
+*.log
+*.loc
+
 .*
 
-*.swp
-
+test
 coverage
 example
-*.config.*
 rules
-*.spec.*
