@@ -1,3 +1,14 @@
+2026.02.17, v4.0.3
+
+feature:
+- 4c58d48 samadhi: putout v42.0.5
+- 8bb29a1 samadhi: madrun v13.0.0
+- b3165d2 samadhi: eslint-plugin-putout v31.0.0
+- b54000d samadhi: supertape v12.5.0
+- f02620a samadhi: madrun v12.1.3
+- 514d030 samadhi: eslint-plugin-putout v30.0.3
+- 8b494a7 samadhi: eslint v10.0.0
+
 2025.12.31, v4.0.2
 
 feature:
